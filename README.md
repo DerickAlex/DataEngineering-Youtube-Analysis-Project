@@ -7,7 +7,7 @@ In this project, I Built an ETL(Extract,Transform,Load) pipeline using a Dataset
 
 ## Architecture
 
-![Architecture diagram](https://github.com/DerickAlex/spotify-end-to-end-data-engineering-project/blob/main/Architecture%20Diagram.PNG)
+![Architecture diagram](https://github.com/DerickAlex/DataEngineering-Youtube-Analysis-Project/blob/main/architecture.jpeg)
 
 ### Dataset Used/API
 This dataset includes several months (and counting) of data on daily trending YouTube videos. Data is included for the US, GB, DE, CA, and FR regions (USA, Great Britain, Germany, Canada, and France, respectively), with up to 200 listed trending videos per day. [Dataset-Link](https://www.kaggle.com/datasets/datasnaek/youtube-new).
